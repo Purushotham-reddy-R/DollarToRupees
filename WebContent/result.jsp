@@ -9,6 +9,7 @@
 <title>convert</title>
 </head>
 <body>
+<h1>SUCCESS</h1>
 <h1>Dollar converted to Indian Rupees<h1>
 <h2>${amountRS}</h2>
 <a href="welcome.jsp">Home</a>
